@@ -487,5 +487,3 @@ workband/command/ESP32-001     <- Remote buzzer/vibration cancel command from da
 ## License
 
 This project is licensed under the MIT License — feel free to use and adapt it for academic research, industrial prototypes, or commercial safety deployments.
-#   I n d u s t r i a l - W o r k e r - S a f e t y - B a n d  
- 
