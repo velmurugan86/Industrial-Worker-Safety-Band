@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# SQLite Databases & temporary journal files (auto-generated at runtime)
+*.db
+*.db-shm
+*.db-wal
+backend/safety_band.db
+backend/safety_band.db-shm
+backend/safety_band.db-wal
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment & Private Secrets
+.env
+backend/.env
+frontend/.env
+*.pem
+*.key
+
+# InfluxDB data
+influxdb.zip
+.influxdbv2/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
